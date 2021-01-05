@@ -10,6 +10,7 @@ test.db
 .DS_Store
 .DS_Store?
 ._*
+*.zip
 .Spotlight-V100
 .Trashes
 ehthumbs.db
